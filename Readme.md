@@ -6,6 +6,7 @@
 
 ## Setup Instructions
 
+1. Use Visual studio 2022 or above 
 1. Clone the Repository
 2. git clone <repository_url>cd <repository_directory>/backend
  
